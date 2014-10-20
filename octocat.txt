@@ -1,3 +1,4 @@
 Ahoj
-ja jsem kocka. To je test gitu.
+ja jsem pes. To je test gitu.
+Ale byl jsem kočka.
 
